@@ -11,6 +11,9 @@ This project simulates a traffic light system with a **single-digit countdown ti
 - Countdown displayed using shift registers and LEDs
 - Fully implemented in Tinkercad Electronics Lab
 
+## Circuit View
+![alt text](image.png)
+
 ## Components Used
 - Arduino Uno R3
 - LEDs (Red, Yellow, Green)
