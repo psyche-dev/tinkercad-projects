@@ -50,11 +50,8 @@ This design ensures that only individuals with acceptable body temperature are a
 
 ## 🚀 How to Run
 1. Open the project in [Tinkercad](https://www.tinkercad.com/things/hicOZohI0Q1-automated-thermal-scan-entry-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits).
-2. Build the circuit with the listed components.
-3. Upload **Slave Arduino code** to Arduino Uno (Address 1).
-4. Upload **Master Arduino code** to Arduino Uno (default address).
-5. Start simulation.
-6. Adjust TMP36 sensor and ultrasonic distance to test scenarios.
+2. Start simulation.
+3. Adjust TMP36 sensor and ultrasonic distance to test scenarios.
 
 ## 📌 Notes
 - Temperature conversion formula:  

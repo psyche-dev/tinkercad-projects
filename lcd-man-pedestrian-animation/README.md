@@ -43,12 +43,9 @@ This project demonstrates how to use **two Arduino Uno boards** with **I2C commu
 | n = 0           | Running Man Left     |
 
 ## 🚀 How to Run
-1. Connect both Arduinos via I2C (Master SDA/SCL → Slave SDA/SCL).
-2. Wire the LCD to the Slave Arduino (pins 12, 11, 5, 4, 3, 2).
-3. Upload **Master code** to Arduino 2.
-4. Upload **Slave code** to Arduino 1.
-5. Start simulation in [Tinkercad](https://www.tinkercad.com/).
-6. Observe the LCD animations changing as the countdown decreases.
+1. Open the project in [Tinkercad](https://www.tinkercad.com/).
+2. Start simulation.
+3. Observe the LCD animations changing as the countdown decreases.
 
 ## 📌 Notes
 - The project uses **custom LCD characters** to simulate animations.

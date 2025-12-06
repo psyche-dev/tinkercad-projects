@@ -76,10 +76,7 @@ void loop() {
 
 ## 🚀 How to Run
 1. Open the project in [Tinkercad](https://www.tinkercad.com/things/4yxoeg0Ff9X-analog-temperature-sensor-with-and-without-arduino-uno/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall).
-2. Place the TMP36 sensor and connect it to **A4** on the Arduino.
-3. Wire LEDs to pins 13, 12, 8, and 4 with resistors.
-4. Upload the provided code to the Arduino Uno.
-5. Start the simulation and adjust the TMP36 sensor to test different temperature ranges.
+2. Start the simulation and adjust the TMP36 sensor to test different temperature ranges.
 
 
 ## 📌 Notes

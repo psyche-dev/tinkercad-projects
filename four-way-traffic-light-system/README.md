@@ -63,10 +63,7 @@ The system consists of:
 
 ## 🚀 How to Run
 1. Open the project in [Tinkercad](https://www.tinkercad.com/things/630SUmUc0jv-4-way-traffic-light-system?sharecode=jBZC4fhAK7W155o9099JbpsmbQCa0NsruuLoGP8wFdI).
-2. Connect Arduinos via I2C (master + 4 slaves).
-3. Wire LEDs and LCDs according to the design.
-4. Upload the master and slave codes to respective Arduinos.
-5. Start simulation and observe traffic light cycles, pedestrian animations, and countdown timers.
+2. Start simulation and observe traffic light cycles, pedestrian animations, and countdown timers.
 
 ## 🧩 Methodology
 - **Planning & Design**: 3 days  

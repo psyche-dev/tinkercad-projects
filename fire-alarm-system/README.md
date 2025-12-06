@@ -50,10 +50,8 @@ This project demonstrates how Arduino can be used for **safety monitoring system
 
 ## 🚀 How to Run
 1. Open the project in [Tinkercad](https://www.tinkercad.com/things/1ufsRFCBvlm-fire-alarm-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits).
-2. Build the circuit with the listed components.
-3. Upload the provided code to Arduino Uno.
-4. Start simulation.
-5. Adjust sensor values to test alarm conditions.
+2. Start simulation.
+3. Adjust sensor values to test alarm conditions.
 
 ## 📌 Notes
 - Thresholds (80°C and gasSensor ≥ 100) can be adjusted depending on sensitivity requirements.
